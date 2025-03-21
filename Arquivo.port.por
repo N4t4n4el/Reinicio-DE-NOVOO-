@@ -1,13 +1,13 @@
 programa {
 funcao inicio() {
-real numero1, numero2, sub
+real n1, n2, sub
   escreva("Coloque o primeiro número ")
-    leia (numero1)
+    leia (nu1)
 
   escreva("Coloque o segundo número ")
-    leia (numero2)
+    leia (n2)
 
-  sub = (numero1 - numero2)
+  sub = (n1 - n2)
 
   escreva(sub)
   }
