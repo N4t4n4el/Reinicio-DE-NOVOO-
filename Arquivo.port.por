@@ -6,12 +6,20 @@ programa {
     escreva ("Qual seu segundo numero ? ")
     leia (n2 )
     soma =(n1 + n2)
-    escreva (soma)
-    escreva("Coloque o primeiro número ")
+    escreva (soma
+  }
+}
+programa {
+funcao inicio() {
+real n1, n2, sub
+  escreva("Coloque o primeiro número ")
     leia (n1)
-    escreva("Coloque o segundo número ")
+
+  escreva("Coloque o segundo número ")
     leia (n2)
-    sub = (n1 - n2)
-    escreva(sub)
+
+  sub = (n1 - n2)
+
+  escreva(sub)
   }
 }
