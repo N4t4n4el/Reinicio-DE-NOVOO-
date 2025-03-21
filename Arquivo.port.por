@@ -1,7 +1,6 @@
 programa {
 funcao inicio() {
 real numero1, numero2, sub
-
   escreva("Coloque o primeiro número ")
     leia (numero1)
 
