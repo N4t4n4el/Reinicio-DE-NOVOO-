@@ -1,1 +1,5 @@
-
+programa {
+  funcao inicio() {
+    
+  }
+}
